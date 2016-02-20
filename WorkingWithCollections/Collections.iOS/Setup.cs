@@ -1,3 +1,4 @@
+using Collections.Core;
 using MvvmCross.iOS.Platform;
 using MvvmCross.iOS.Views.Presenters;
 using MvvmCross.Core.ViewModels;

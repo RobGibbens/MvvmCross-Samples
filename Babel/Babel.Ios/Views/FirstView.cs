@@ -7,8 +7,7 @@ using System.Drawing;
 
 namespace Babel.Ios.Views
 {
-	[Register ("FirstView")]
-	public class FirstView : MvxViewController
+	public partial class FirstView : MvxViewController
 	{
 		public override void ViewDidLoad ()
 		{

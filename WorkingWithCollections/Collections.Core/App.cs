@@ -1,5 +1,6 @@
 ﻿using Collections.Core.ViewModels;
 using MvvmCross.Core.ViewModels;
+using MvvmCross.Platform.IoC;
 
 namespace Collections.Core
 {
@@ -8,6 +9,11 @@ namespace Collections.Core
     {
         public override void Initialize()
         {
+            CreatableTypes()
+                .EndingWith("Service")
+                .AsInterfaces()
+                .RegisterAsLazySingleton();
+
             RegisterAppStart<MainMenuViewModel>();
         }
     }

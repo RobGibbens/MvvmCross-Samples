@@ -13,22 +13,16 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>5.2</string>
+	<string>8.0</string>
 	<key>CFBundleDisplayName</key>
 	<string>Babel</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.mvvmcross.babel</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
-	<key>NSMainNibFile</key>
-	<string></string>
 	<key>CFBundleIconFiles</key>
-	<array>
-		<string>Resources/Default.png</string>
-		<string>Resources/Default@2x.png</string>
-		<string>Resources/Default-568h@2x.png</string>
-	</array>
-	<key>MKDirectionsApplicationSupportedModes</key>
 	<array/>
+	<key>CFBundleShortVersionString</key>
+	<string></string>
 </dict>
 </plist>

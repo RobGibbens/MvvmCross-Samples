@@ -192,6 +192,7 @@ Global
 		{27644071-97F7-4CAC-AA7F-13A56A1A4C03}.AppStore|x64.ActiveCfg = AppStore|iPhoneSimulator
 		{27644071-97F7-4CAC-AA7F-13A56A1A4C03}.AppStore|x86.ActiveCfg = AppStore|iPhoneSimulator
 		{27644071-97F7-4CAC-AA7F-13A56A1A4C03}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{27644071-97F7-4CAC-AA7F-13A56A1A4C03}.Debug|Any CPU.Build.0 = Debug|iPhone
 		{27644071-97F7-4CAC-AA7F-13A56A1A4C03}.Debug|ARM.ActiveCfg = Debug|iPhoneSimulator
 		{27644071-97F7-4CAC-AA7F-13A56A1A4C03}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{27644071-97F7-4CAC-AA7F-13A56A1A4C03}.Debug|iPhone.Build.0 = Debug|iPhone
